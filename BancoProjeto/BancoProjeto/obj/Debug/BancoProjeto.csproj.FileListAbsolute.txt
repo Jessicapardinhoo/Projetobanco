@@ -1,0 +1,5 @@
+C:\Users\jessicasilva\source\repos\BancoProjeto\BancoProjeto\obj\Debug\BancoProjeto.csproj.AssemblyReference.cache
+C:\Users\jessicasilva\source\repos\BancoProjeto\BancoProjeto\obj\Debug\BancoProjeto.Form1.resources
+C:\Users\jessicasilva\source\repos\BancoProjeto\BancoProjeto\obj\Debug\BancoProjeto.Properties.Resources.resources
+C:\Users\jessicasilva\source\repos\BancoProjeto\BancoProjeto\obj\Debug\BancoProjeto.csproj.GenerateResource.cache
+C:\Users\jessicasilva\source\repos\BancoProjeto\BancoProjeto\obj\Debug\BancoProjeto.csproj.CoreCompileInputs.cache
